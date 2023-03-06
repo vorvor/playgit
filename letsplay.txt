@@ -3,3 +3,5 @@
 print "Try to write some code";
 print "And then change something";
 print "And try to retrieve";
+
+print "this is the hotfix"
