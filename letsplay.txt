@@ -7,4 +7,4 @@ print "And try to retrieve";
 print "this is the hotfix"
 
 print "working on main branch, what need to be postpone"
-print "postponed task done."
+print "task done."
