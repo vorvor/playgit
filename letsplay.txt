@@ -2,4 +2,8 @@
 
 print "Try to write some code";
 print "And then change something";
-print "And try to retrieve";
+
+for ($c = 0; $c < 10; $c++) {
+    print "And try to retrieve";
+}
+
