@@ -9,4 +9,6 @@ print "this is the hotfix"
 print "working on main branch, what need to be postpone"
 print "task done."
 
+print "merge branch"
+
 print "taggelt változás"
